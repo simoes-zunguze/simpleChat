@@ -1,0 +1,11 @@
+node_modules
+*.md
+.git
+Dockerfile
+.DS_Store
+.gitignore
+README.md
+env.*
+
+client/**
+!/client/build

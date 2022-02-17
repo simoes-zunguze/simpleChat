@@ -1,0 +1,14 @@
+/*CSS RESET*/
+body,header,section,input,label,select,option,textarea,footer,div,form,p,h1,h2,h3,h4,h5,h6,img,figure,figcaption,table,td,tr,thead,tbody,ul,ol,li{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	border-collapse: collapse;
+	border: none;
+	font-family: sans-serif;
+	position: relative;
+	outline: none;
+    font-family: 'Epilogue', sans-serif;
+    color:#ffffff;
+    letter-spacing: 1px;
+}
