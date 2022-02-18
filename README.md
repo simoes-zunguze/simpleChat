@@ -26,7 +26,7 @@ http://localhost:3001/
   yarn install
   yarn  build
   cd ..
-  docker-compose down
+  docker-compose up
 ```
 
 Go to your browser and access this link:
